@@ -1,6 +1,5 @@
 {
   "name": "mathwebsite",
-  "version": "0.01",
   "description": "12-28-2021",
   "dependencies": {
     "socket.io": "^4.1.2",
